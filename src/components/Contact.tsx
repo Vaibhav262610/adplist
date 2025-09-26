@@ -4,7 +4,7 @@ import { Button } from './ui/button'
 
 const Contact = () => {
   return (
-    <div className='h-[90vh] flex flex-col justify-center items-center gap-10'>
+    <div className='h-[70vh] flex flex-col justify-center items-center gap-10'>
         <h1 className='text-7xl font-bold text-center'>Get started for free in 1<br/> minute or less</h1>
         <h2 className='text-center text-lg leading-9 '>We want to help you build an epic career with expert mentors.<br/>From junior to leadership, we are here to grow with you on this journey.</h2>
         <div className="flex text-3xl items-center  rounded-md text-black px-3 py-2 shadow-2xl ">

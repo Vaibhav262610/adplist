@@ -1,8 +1,17 @@
-import React from 'react'
+"use client"
+
+import Explore from '@/components/Explore';
+import Sidebar from '@/components/Sidebar'
+import React, { useState } from 'react'
 
 const page = () => {
+    
   return (
-    <div>explore page</div>
+    <div className='flex items-center'>      
+        <Sidebar />
+        <Explore />
+        
+    </div>
   )
 }
 

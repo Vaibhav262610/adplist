@@ -11,6 +11,7 @@ const buttonVariants = cva(
       variant: {
         default: "px-6 py-5 hover:bg-primary hover:text-white text-primary-foreground border border-black text-black",
         default2: "px-6 py-5 bg-primary text-primary-foreground hover:bg-primary/90",
+        explore: "px-5 py-3 border border-black text-black hover:text-white hover:bg-primary/90",
         header: "px-28 py-8 bg-gradient-to-r text-white from-[#f2137b] to-[#f86a68] text-md",
         contact: "px-8 py-8 bg-gradient-to-r text-white from-[#f2137b] to-[#f86a68] text-base",
         destructive:

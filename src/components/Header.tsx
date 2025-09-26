@@ -10,7 +10,7 @@ const Header = () => {
 
 
   return (
-    <div className='flex flex-col justify-center py-24 '>
+    <div className='flex flex-col justify-center py-32 '>
             <div className='flex font-semibold gap-6 pb-12 justify-center items-center '>
         <h2
           onClick={() => setActive("mentee")}

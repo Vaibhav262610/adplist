@@ -3,8 +3,8 @@ import { Button } from './ui/button'
 
 const Navbar = () => {
   return (
-    <div className='px-5 border-b border-black py-3 flex items-center justify-between text-white'>
-        <div className='text-black text-3xl font-bold uppercase'>
+    <div className='px-5 fixed border-b bg-white w-full border-black py-3 flex items-center justify-between text-white'>
+        <div className='text-black cursor-pointer text-3xl font-bold uppercase'>
             <h1>Logo</h1>
         </div>
         <div className='flex gap-4 '>
