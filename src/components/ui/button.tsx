@@ -14,6 +14,7 @@ const buttonVariants = cva(
         explore: "px-5 py-3 border border-black text-black hover:text-white hover:bg-primary/90",
         header: "px-28 py-8 bg-gradient-to-r text-white from-[#f2137b] to-[#f86a68] text-md",
         contact: "px-8 py-8 bg-gradient-to-r text-white from-[#f2137b] to-[#f86a68] text-base",
+        book: "px-6 py-6 bg-[#077e7e] text-white text-sm",
         more: "px-8 py-8 bg-black text-white hover:bg-[#d7f7f2] hover:text-black text-base",
         destructive:
           "bg-destructive text-white hover:bg-destructive/90 focus-visible:ring-destructive/20 dark:focus-visible:ring-destructive/40 dark:bg-destructive/60",

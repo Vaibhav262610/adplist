@@ -5,13 +5,13 @@ const Footer = () => {
     <div className='w-full flex justify-center items-center bg-[#fafafa] py-28'>
         <div className='flex gap-28'>
             <div className='flex flex-col gap-3'>
-                <h1 className='text-4xl cursor-pointer w-fit font-semibold'>LOGO</h1>
+                <h1 className='text-4xl cursor-pointer w-fit font-semibold'>CONNEX</h1>
                 <h2>
                     On a mission to democratize mentorship for all.<br/>    
-                    Designed and made with 🖤 by Logo Team
+                    Designed and made with 🖤 by Vaibhav
                 </h2>
                 <h2>
-                    © Copyright 2025 - Logo
+                    © Copyright 2025 - Connex
                 </h2>
             </div>
             <div className='flex flex-col gap-3'>
