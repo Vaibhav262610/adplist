@@ -1,6 +1,6 @@
 import React from 'react'
 import { Button } from './ui/button'
-import MentorCard from './MentorCard'
+import BestMentorCard from './BestMentorCard'
 import { GoArrowRight } from 'react-icons/go'
 
 const BestMentors = () => {
@@ -11,7 +11,7 @@ const BestMentors = () => {
             <Button variant={'explore'}>Explore all <GoArrowRight    /></Button>
         </div>
         <div>
-            <MentorCard />
+            <BestMentorCard />
         </div>
     </div>
   )

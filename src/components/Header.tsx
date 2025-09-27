@@ -6,7 +6,7 @@ import { Button } from './ui/button'
 
 const Header = () => {
 
-    const [active, setActive] = useState<"mentor" | "mentee">("mentor");
+    const [active, setActive] = useState<"mentor" | "mentee">("mentee");
 
 
   return (

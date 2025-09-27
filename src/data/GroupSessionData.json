@@ -1,0 +1,218 @@
+[
+  {
+    "id": 1,
+    "banner": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f",
+    "date": "Sep 29, 1:30am · GMT +05:30",
+    "title": "Open Q&A Session!",
+    "mentor": {
+      "name": "Antonio Braz",
+      "country": "CA",
+      "role": "Lead Experience Designer, Take 2 Interactive",
+      "avatar": "https://randomuser.me/api/portraits/men/32.jpg"
+    }
+  },
+  {
+    "id": 2,
+    "banner": "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
+    "date": "Sep 30, 5:00pm · GMT +01:00",
+    "title": "UX Design Deep Dive",
+    "mentor": {
+      "name": "Sophia Li",
+      "country": "SG",
+      "role": "Senior Product Designer, Grab",
+      "avatar": "https://randomuser.me/api/portraits/women/45.jpg"
+    }
+  },
+  {
+    "id": 3,
+    "banner": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d",
+    "date": "Oct 1, 10:00am · GMT -07:00",
+    "title": "Design Thinking Workshop",
+    "mentor": {
+      "name": "David Kim",
+      "country": "US",
+      "role": "Principal UX Designer, Google",
+      "avatar": "https://randomuser.me/api/portraits/men/28.jpg"
+    }
+  },
+  {
+    "id": 4,
+    "banner": "https://images.unsplash.com/photo-1485217988980-11786ced9454",
+    "date": "Oct 2, 7:30pm · GMT +09:00",
+    "title": "Intro to Service Design",
+    "mentor": {
+      "name": "Mika Tanaka",
+      "country": "JP",
+      "role": "Service Designer, Sony",
+      "avatar": "https://randomuser.me/api/portraits/women/33.jpg"
+    }
+  },
+  {
+    "id": 5,
+    "banner": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+    "date": "Oct 3, 11:00am · GMT +00:00",
+    "title": "Portfolio Review Session",
+    "mentor": {
+      "name": "Oliver Green",
+      "country": "UK",
+      "role": "Creative Director, BBC",
+      "avatar": "https://randomuser.me/api/portraits/men/65.jpg"
+    }
+  },
+  {
+    "id": 6,
+    "banner": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d",
+    "date": "Oct 4, 3:00pm · GMT +05:30",
+    "title": "Career Growth in UX",
+    "mentor": {
+      "name": "Ananya Rao",
+      "country": "IN",
+      "role": "Design Manager, Flipkart",
+      "avatar": "https://randomuser.me/api/portraits/women/62.jpg"
+    }
+  },
+  {
+    "id": 7,
+    "banner": "https://images.unsplash.com/photo-1531482615713-2afd69097998",
+    "date": "Oct 5, 9:00am · GMT -05:00",
+    "title": "Prototyping with Figma",
+    "mentor": {
+      "name": "Lucas Martinez",
+      "country": "MX",
+      "role": "Product Designer, Uber",
+      "avatar": "https://randomuser.me/api/portraits/men/71.jpg"
+    }
+  },
+  {
+    "id": 8,
+    "banner": "https://images.unsplash.com/photo-1529333166437-7750a6dd5a70",
+    "date": "Oct 6, 2:30pm · GMT +03:00",
+    "title": "Accessibility in Design",
+    "mentor": {
+      "name": "Amina Hassan",
+      "country": "EG",
+      "role": "UX Researcher, Vodafone",
+      "avatar": "https://randomuser.me/api/portraits/women/40.jpg"
+    }
+  },
+  {
+    "id": 9,
+    "banner": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0",
+    "date": "Oct 7, 8:00pm · GMT +10:00",
+    "title": "Product Design Career Path",
+    "mentor": {
+      "name": "Ethan Brown",
+      "country": "AU",
+      "role": "Design Lead, Atlassian",
+      "avatar": "https://randomuser.me/api/portraits/men/46.jpg"
+    }
+  },
+  {
+    "id": 10,
+    "banner": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d",
+    "date": "Oct 8, 12:00pm · GMT +02:00",
+    "title": "Collaboration in Remote Teams",
+    "mentor": {
+      "name": "Clara Rossi",
+      "country": "IT",
+      "role": "Interaction Designer, Ferrari",
+      "avatar": "https://randomuser.me/api/portraits/women/53.jpg"
+    }
+  },
+  {
+    "id": 11,
+    "banner": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d",
+    "date": "Oct 9, 4:30pm · GMT -04:00",
+    "title": "Breaking into Product Design",
+    "mentor": {
+      "name": "Michael Johnson",
+      "country": "US",
+      "role": "UX Designer, Facebook",
+      "avatar": "https://randomuser.me/api/portraits/men/19.jpg"
+    }
+  },
+  {
+    "id": 12,
+    "banner": "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
+    "date": "Oct 10, 6:00pm · GMT +05:30",
+    "title": "UI Trends in 2025",
+    "mentor": {
+      "name": "Riya Sharma",
+      "country": "IN",
+      "role": "UI Designer, Zomato",
+      "avatar": "https://randomuser.me/api/portraits/women/36.jpg"
+    }
+  },
+  {
+    "id": 13,
+    "banner": "https://images.unsplash.com/photo-1529333166437-7750a6dd5a70",
+    "date": "Oct 11, 1:00pm · GMT +08:00",
+    "title": "Design Systems 101",
+    "mentor": {
+      "name": "Wei Chen",
+      "country": "SG",
+      "role": "System Designer, Shopee",
+      "avatar": "https://randomuser.me/api/portraits/men/82.jpg"
+    }
+  },
+  {
+    "id": 14,
+    "banner": "https://images.unsplash.com/photo-1531482615713-2afd69097998",
+    "date": "Oct 12, 5:30pm · GMT +07:00",
+    "title": "Designing for Mobile Apps",
+    "mentor": {
+      "name": "Suriya Wong",
+      "country": "TH",
+      "role": "Lead Designer, Agoda",
+      "avatar": "https://randomuser.me/api/portraits/women/28.jpg"
+    }
+  },
+  {
+    "id": 15,
+    "banner": "https://images.unsplash.com/photo-1485217988980-11786ced9454",
+    "date": "Oct 13, 10:30am · GMT -03:00",
+    "title": "Design Leadership Workshop",
+    "mentor": {
+      "name": "Carlos Mendes",
+      "country": "BR",
+      "role": "Head of Design, Nubank",
+      "avatar": "https://randomuser.me/api/portraits/men/77.jpg"
+    }
+  },
+  {
+    "id": 16,
+    "banner": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+    "date": "Oct 14, 7:00pm · GMT +06:00",
+    "title": "Journey Mapping in UX",
+    "mentor": {
+      "name": "Fatima Noor",
+      "country": "PK",
+      "role": "UX Specialist, Careem",
+      "avatar": "https://randomuser.me/api/portraits/women/60.jpg"
+    }
+  },
+  {
+    "id": 17,
+    "banner": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+    "date": "Oct 15, 2:00pm · GMT +09:00",
+    "title": "Building Design Portfolios",
+    "mentor": {
+      "name": "Kenji Sato",
+      "country": "JP",
+      "role": "Design Coach, Rakuten",
+      "avatar": "https://randomuser.me/api/portraits/men/90.jpg"
+    }
+  },
+  {
+    "id": 18,
+    "banner": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f",
+    "date": "Oct 16, 8:30pm · GMT +04:00",
+    "title": "From Designer to Manager",
+    "mentor": {
+      "name": "Lina Petrova",
+      "country": "RU",
+      "role": "Design Manager, Yandex",
+      "avatar": "https://randomuser.me/api/portraits/women/21.jpg"
+    }
+  }
+]
