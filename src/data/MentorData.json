@@ -1,5 +1,6 @@
 [
   {
+    "id":1,
     "name": "Mastering UX Design",
     "country": "US",
     "role": "Group Session hosted by Sophia Lee",
@@ -11,6 +12,7 @@
     "image": "https://images.unsplash.com/photo-1607746882042-944635dfe10e?fm=jpg&q=60&w=1200"
   },
   {
+    "id":2,
     "name": "AI in Healthcare",
     "country": "KR",
     "role": "Group Session hosted by David Kim",
@@ -22,6 +24,7 @@
     "image": "https://images.unsplash.com/photo-1581093588401-22d3be36d1cc?fm=jpg&q=60&w=1200"
   },
   {
+    "id":3,
     "name": "Creative Marketing 101",
     "country": "ES",
     "role": "Group Session hosted by Elena Martinez",
@@ -33,6 +36,7 @@
     "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?fm=jpg&q=60&w=1200"
   },
   {
+    "id":4,
     "name": "Full-Stack Bootcamp",
     "country": "IN",
     "role": "Group Session hosted by Arjun Mehta",
@@ -44,6 +48,7 @@
     "image": "https://images.unsplash.com/photo-1603415526960-f7e0328a6e1d?fm=jpg&q=60&w=1200"
   },
   {
+    "id":5,
     "name": "Photography Masterclass",
     "country": "SG",
     "role": "Group Session hosted by Marc Gallo",
@@ -55,6 +60,7 @@
     "image": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?fm=jpg&q=60&w=1200"
   },
   {
+    "id":6,
     "name": "Blockchain for Beginners",
     "country": "UK",
     "role": "Group Session hosted by Alex Carter",
@@ -66,6 +72,7 @@
     "image": "https://images.unsplash.com/photo-1621509871095-78f725a23a3b?fm=jpg&q=60&w=1200"
   },
   {
+    "id":7,
     "name": "Digital Illustration",
     "country": "JP",
     "role": "Group Session hosted by Mina Okada",
@@ -77,6 +84,7 @@
     "image": "https://images.unsplash.com/photo-1503602642458-232111445657?fm=jpg&q=60&w=1200"
   },
   {
+    "id":8,
     "name": "Entrepreneurship Essentials",
     "country": "CA",
     "role": "Group Session hosted by Daniel Wong",
@@ -88,6 +96,7 @@
     "image": "https://images.unsplash.com/photo-1532619187608-e5375cab36aa?fm=jpg&q=60&w=1200"
   },
   {
+    "id":9,
     "name": "Music Production Basics",
     "country": "DE",
     "role": "Group Session hosted by Anna Schmidt",
@@ -99,6 +108,7 @@
     "image": "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?fm=jpg&q=60&w=1200"
   },
   {
+    "id":10,
     "name": "Startup Pitch Workshop",
     "country": "FR",
     "role": "Group Session hosted by Julien Moreau",
@@ -110,6 +120,7 @@
     "image": "https://images.unsplash.com/photo-1551836022-d5d88e9218df?fm=jpg&q=60&w=1200"
   },
   {
+    "id":11,
     "name": "Data Science Crash Course",
     "country": "IN",
     "role": "Group Session hosted by Priya Sharma",
@@ -121,6 +132,7 @@
     "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?fm=jpg&q=60&w=1200"
   },
   {
+    "id":12,
     "name": "Film Editing Workshop",
     "country": "US",
     "role": "Group Session hosted by Chris Johnson",
@@ -132,6 +144,7 @@
     "image": "https://images.unsplash.com/photo-1485841890310-6a055c88698a?fm=jpg&q=60&w=1200"
   },
   {
+    "id":13,
     "name": "Fitness & Nutrition 101",
     "country": "BR",
     "role": "Group Session hosted by Carla Souza",
@@ -143,6 +156,7 @@
     "image": "https://images.unsplash.com/photo-1558611848-73f7eb4001a1?fm=jpg&q=60&w=1200"
   },
   {
+    "id":14,
     "name": "Public Speaking Mastery",
     "country": "AU",
     "role": "Group Session hosted by James Brown",
@@ -154,6 +168,7 @@
     "image": "https://images.unsplash.com/photo-1529333166437-7750a6dd5a70?fm=jpg&q=60&w=1200"
   },
   {
+    "id":15,
     "name": "Cybersecurity Awareness",
     "country": "RU",
     "role": "Group Session hosted by Ivan Petrov",
@@ -165,6 +180,7 @@
     "image": "https://images.unsplash.com/photo-1605902711622-cfb43c4437b5?fm=jpg&q=60&w=1200"
   },
   {
+    "id":16,
     "name": "Game Development with Unity",
     "country": "IN",
     "role": "Group Session hosted by Karan Patel",
@@ -176,6 +192,7 @@
     "image": "https://images.unsplash.com/photo-1616469829941-1e7e5f2f3f55?fm=jpg&q=60&w=1200"
   },
   {
+    "id":17,
     "name": "Cooking Italian Cuisine",
     "country": "IT",
     "role": "Group Session hosted by Giulia Rossi",
@@ -187,6 +204,7 @@
     "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?fm=jpg&q=60&w=1200"
   },
   {
+    "id":18,
     "name": "Digital Marketing Deep Dive",
     "country": "ES",
     "role": "Group Session hosted by Carlos Gomez",

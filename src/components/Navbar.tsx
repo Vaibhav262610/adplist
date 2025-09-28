@@ -8,7 +8,7 @@ import { MdOutlineDateRange } from 'react-icons/md'
 import { useAuth } from '@/context/AuthContext'
 
 const Navbar = () => {
-  const { session, loading } = useAuth()
+  const { session } = useAuth()
 
   return (
     <div className="px-5 z-9 fixed border-b bg-white w-full border-black py-3 flex items-center justify-between">

@@ -3,6 +3,7 @@
 import React, { useState } from 'react'
 import { Input } from './ui/input'
 import { Button } from './ui/button'
+import Link from 'next/link'
 
 const Header = () => {
 
@@ -42,9 +43,11 @@ const Header = () => {
                 <h2 className='text-xl text-center'>
                     Accelerate your professional growth with 1:1 expert <br/> guidance of <span className='font-bold'> 35,570+</span> mentors in our community.
                 </h2>
-                <div className=''>
-                    <Input  placeholder='What do you want to get better at?' />
-                </div>
+                <Link href={'/explore'}>
+                    <div className='cursor-pointer'>
+                            <Input className='cursor-pointer' placeholder='What do you want to get better at?' />
+                    </div>
+                </Link>
             </div>
             :
             <div className='flex flex-col gap-10 justify-center items-center '>

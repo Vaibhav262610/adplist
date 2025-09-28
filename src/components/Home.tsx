@@ -4,7 +4,7 @@ import { useAuth } from '@/context/AuthContext'
 import { redirect } from 'next/navigation'
 import { supabase } from '@/lib/supabaseClient'
 
-export default function DashboardPage() {
+export default function Home() {
   const { session, loading } = useAuth()
 
   if (loading) return <p>Loading...</p>
@@ -18,7 +18,7 @@ export default function DashboardPage() {
 
 
   return (
-    <div className="pt-40">
+    <div className="flex justify-center items-center h-screen  flex-col  w-full gap-4">
       <h1 className="text-2xl">Welcome {session.user.email}</h1>
       {profileImage && (
         <img

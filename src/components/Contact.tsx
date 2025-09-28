@@ -10,10 +10,11 @@ const Contact = () => {
         <div className="flex text-3xl items-center  rounded-md text-black px-3 py-2 shadow-2xl ">
               <CiMail  /> 
               <input
+              type='email'
               placeholder='Enter your email'
               data-slot="input"
               className=
-                " placeholder:text-muted-foreground    h-9 w-[18rem] min-w-0 rounded-md -transparent px-4 py-7 text-2xl  outline-none file:inline-flex file:h-7  file:text-xl file:font-medium disabled:pointer-events-none disabled:cursor-not-allowed disabled:opacity-50 md:text-base" / >
+                " placeholder:text-muted-foreground    h-9 w-[18rem] min-w-0 rounded-md -transparent px-4 py-7 text-2xl  outline-none file:inline-flex file:h-7  file:text-xl file:font-medium disabled:pointer-events-none disabled:cursor-not-allowed disabled:opacity-50 md:text-base" />
                 <Button variant={'contact'}>Join for free</Button>
             </div>
     </div>
